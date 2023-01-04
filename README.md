@@ -6,8 +6,8 @@ A Python script that allows the user to chat with an AI using OpenAI's API
 
 
 ## Command
-/quit will terminate the script
-CTRL+C will terminate the script
+- /quit will terminate the script
+- CTRL+C will terminate the script
 
 ## Requirements
 The script requires the following modules to be installed: 
