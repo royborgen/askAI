@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 import openai
 import random
-import os
 import configparser
 
 
