@@ -13,7 +13,6 @@ A Python script that allows the user to chat with an AI using OpenAI's API. For 
 The script requires the following modules to be installed: 
 - openai 
 - random
-- os
 - configparser
 
 The scripts looks for your OpenAI API key in config.ini, location as it is located. The file needs to have the have the following format: 
