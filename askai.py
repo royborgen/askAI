@@ -52,9 +52,7 @@ def chat_loop():
 
             # Get the response from the model
             message = completions.choices[0].text.strip()
-            
-            #print(f"<AI> {message}")
-            
+                             
             # Print the model's response in blue
             print(f"\033[95m<AI>\033[33m {message}\033[0m")
 
