@@ -14,9 +14,11 @@ Welcome to askAI v1.0
 <User> What is my name?
 <AI> Your name is John.
 <User> Could you tell me what a cod is?
-<AI> A code is a set of instructions that tells a computer or other device how to execute a task. It is usually written in a programming language such as C++, Java, or Python.
+<AI> A code is a set of instructions that tells a computer or other device how to execute a task. It is usually written 
+in a programming language such as C++, Java, or Python.
 <User> I ment the fish
-<AI> Cod. Oh, I see. Cod is a type of fish that is found in the northern Atlantic Ocean and is popular for its mild, white flesh.
+<AI> Cod. Oh, I see. Cod is a type of fish that is found in the northern Atlantic Ocean and is popular for its mild, 
+white flesh.
 <User> thank you :)
 <AI> You're welcome!
 <User> /quit
