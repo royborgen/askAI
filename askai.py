@@ -67,10 +67,8 @@ def chat_loop():
 
 def main():
     print("Welcome to askAI v1.0\n")
-    
-    # Fine-tune the chatgpt model
+ 
     get_api_key()
-    
     chat_loop()
 
 if __name__ == "__main__":
