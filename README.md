@@ -27,7 +27,7 @@ api_key = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Register on OpenAP's webpage: https://beta.openai.com/signup
 
 After signing up, navigate to view API keys in the menu
-1. Click your profile picture: 
+1. Click on the menu "Personal" in the top right corner: 
 2. Click view API keys
 3. Create new secrey key
 
