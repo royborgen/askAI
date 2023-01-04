@@ -32,3 +32,5 @@ After signing up, navigate to view API keys in the menu
 3. Create new secrey key
 
 ![image](https://user-images.githubusercontent.com/60260940/210555274-841d5021-d0ba-4b51-9d5a-c383325eb346.png)
+
+4. Copy the key and paste it in config.ini
