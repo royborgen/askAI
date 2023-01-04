@@ -16,8 +16,19 @@ The script requires the following modules to be installed:
 - os
 - configparser
 
-The scripts looks for config.ini. This one needs to contain your OpenAI API key in the following format: 
+The scripts looks for your OpenAI API key in config.ini, location as it is located. The file needs to have the have the following format: 
 ```
 [config]
 api_key = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
+
+## Getting an OpenAI API key: 
+
+Register on OpenAP's webpage: https://beta.openai.com/signup
+
+After signing up, navigate to view API keys in the menu
+1. Click your profile picture: 
+2. Click view API keys
+3. Create new secrey key
+
+![image](https://user-images.githubusercontent.com/60260940/210555274-841d5021-d0ba-4b51-9d5a-c383325eb346.png)
